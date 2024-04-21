@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suraj Chakraborty</h1>
-# 💫 About Me:
-I am a full stack web developer and a designer<br>👨‍💻 All of my projects are available at https://suraj-chakraborty.netlify.app/<br><br>📫 How to reach me surajchakraborty211@gmail.com<br><br>📄 Know about my experiences https://suraj-chakraborty.netlify.app/
+<h2 align="center"> 💫 About Me:
+I am a full stack web developer and a designer<br></h2> 👨‍💻 All of my projects are available at https://suraj-chakraborty.netlify.app/<br><br>📫 How to reach me surajchakraborty211@gmail.com<br><br>📄 Know about my experiences https://suraj-chakraborty.netlify.app/
 
 
 # 💻 Tech Stack:
