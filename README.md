@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suraj Chakraborty</h1>
 <h2 align="center"> 💫 About Me:
 I am a full stack web developer and a designer<br></h2> 👨‍💻 All of my projects are available at https://suraj-chakraborty.netlify.app/<br><br>📫 How to reach me surajchakraborty211@gmail.com<br><br>📄 Know about my experiences https://suraj-chakraborty.netlify.app/
-
+<p align="center"> <a href="https://suraj-chakraborty.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=netlify" alt="Portfolio Badge"> </a> <a href="mailto:surajchakraborty211@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email Badge"> </a> </p>
 # Tech Stack
 <div align="center">
 
