@@ -60,9 +60,6 @@ I am a full stack web developer and a designer<br></h2>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 <video width="100%" muted autoplay loop>
 <source src="assets/animation.mp4" type="video/mp4">
 </video>
