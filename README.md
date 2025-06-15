@@ -1,14 +1,32 @@
+
+<img src="assets/welcome.gif" align="middle" width="100%" alt="Welcome to my Profile! animated">
+
+<img  src="assets/borderseperator.gif">
+
 <h1 align="center">Hi 👋, I'm Suraj Chakraborty</h1>
+<img  src="assets/borderseperator.gif">
 <h2 align="center"> 💫 About Me:
-I am a full stack web developer and a designer<br></h2> 👨‍💻 All of my projects are available at https://suraj-chakraborty.netlify.app/<br><br>📫 How to reach me surajchakraborty211@gmail.com<br><br>📄 Know about my experiences https://suraj-chakraborty.netlify.app/
+I am a full stack web developer and a designer<br></h2>
+
+<a href="https://suraj-chakraborty.netlify.app"> <img align='right' src="assets/loader.gif" width="350" alt="Suraj chakraborty logo" /></a>
+<h4 align="center">
+ 👨‍💻 All of my projects are available at <br>https://suraj-chakraborty.netlify.app/<br><br>📫 How to reach me <br>surajchakraborty211@gmail.com<br><br>📄 Know about my experiences <br> https://suraj-chakraborty.netlify.app/
+ </h4>
+
+
+
+
+
+
+
 
 
 <p align="center"> <a href="https://suraj-chakraborty.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=netlify" alt="Portfolio Badge"> </a> <a href="mailto:surajchakraborty211@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email Badge"> </a> </p>
 
 
-
+<img  src="assets/borderseperator.gif">
 <div align="center">
-## Tech Stack
+<h1> Tech Stack </h1>
   
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -32,6 +50,8 @@ I am a full stack web developer and a designer<br></h2> 👨‍💻 All of my pr
 
 </div>
 
+<img  src="assets/borderseperator.gif">
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=suraj-chakraborty&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=suraj-chakraborty&theme=dracula&hide_border=false)<br/>
@@ -42,6 +62,10 @@ I am a full stack web developer and a designer<br></h2> 👨‍💻 All of my pr
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+<video width="100%" muted autoplay loop>
+<source src="assets/animation.mp4" type="video/mp4">
+</video>
 
 
 
