@@ -1,18 +1,16 @@
-<!-- ========== HEADER SECTION ========== -->
+<!-- ========== ANIMATED HEADER ========== -->
 <div align="center">
-  <img src="https://github.com/suraj-chakraborty/suraj-chakraborty/blob/main/assets/welcome.gif" width="100%" alt="Welcome to my Profile!" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suraj%20Chakraborty&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20System%20Designer%20%7C%20Builder&descAlignY=52&descSize=18" width="100%" />
 </div>
-
-<img src="https://github.com/suraj-chakraborty/suraj-chakraborty/blob/main/assets/borderseperator.gif" width="100%">
 
 <!-- ========== TYPING SVG ========== -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Suraj+Chakraborty;Full+Stack+Developer+%7C+System+Designer+%7C+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&random=false&width=600&height=50&lines=%F0%9F%92%BB+Building+intelligent+systems;%F0%9F%A7%A0+AI+%7C+RAG+%7C+Neo4j+%7C+Semantic+Memory;%F0%9F%9A%80+Shipping+full-stack+products;%E2%9A%A1+Always+learning+something+new" alt="Typing SVG" />
   </a>
 </div>
 
-<img src="https://github.com/suraj-chakraborty/suraj-chakraborty/blob/main/assets/borderseperator.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ========== PROFILE VIEWS & SOCIAL ========== -->
 <div align="center">
@@ -24,7 +22,7 @@
   
 </div>
 
-<img src="https://github.com/suraj-chakraborty/suraj-chakraborty/blob/main/assets/borderseperator.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ========== ABOUT ME ========== -->
 
@@ -63,7 +61,7 @@ fun_facts:
   </tr>
 </table>
 
-<img src="https://github.com/suraj-chakraborty/suraj-chakraborty/blob/main/assets/borderseperator.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ========== TECH STACK ========== -->
 
@@ -186,12 +184,14 @@ fun_facts:
 
 <div align="center">
   <h2>🐍 Watch my contributions get eaten!</h2>
-  <img src="https://raw.githubusercontent.com/suraj-chakraborty/suraj-chakraborty/output/github-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suraj-chakraborty/suraj-chakraborty/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suraj-chakraborty/suraj-chakraborty/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/suraj-chakraborty/suraj-chakraborty/output/github-snake-dark.svg" />
+  </picture>
 </div>
 
-> ⚠️ **Note:** If the snake animation doesn't appear, go to your repo's **Actions** tab → **Generate Snake Animation** → **Run workflow** to generate it for the first time.
-
-<img src="https://github.com/suraj-chakraborty/suraj-chakraborty/blob/main/assets/borderseperator.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ========== SPOTIFY / QUOTE ========== -->
 
