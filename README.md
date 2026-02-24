@@ -20,7 +20,7 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=suraj-chakraborty&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)
   [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-6C63FF?style=for-the-badge&logoColor=white)](https://suraj-chakraborty.netlify.app/)
   [![Email](https://img.shields.io/badge/📬_Email-Contact-EA4335?style=for-the-badge&logoColor=white)](mailto:surajchakraborty211@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suraj-chakraborty)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-chakraborty-173330192/)
   
 </div>
 
@@ -218,7 +218,7 @@ fun_facts:
   <a href="mailto:surajchakraborty211@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;
-  <a href="https://linkedin.com/in/suraj-chakraborty" target="_blank">
+  <a href="https://www.linkedin.com/in/suraj-chakraborty-173330192/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
   <a href="https://github.com/suraj-chakraborty" target="_blank">
