@@ -1,64 +1,226 @@
-
-<img src="https://github.com/suraj-chakraborty/suraj-chakraborty/blob/main/assets/welcome.gif" align="middle" width="100%" alt="Welcome to my Profile! animated">
-
-<img  src="https://github.com/suraj-chakraborty/suraj-chakraborty/blob/main/assets/borderseperator.gif">
-
-<h1 align="center">Hi 👋, I'm Suraj Chakraborty</h1>
-<img  src="https://github.com/suraj-chakraborty/suraj-chakraborty/blob/main/assets/borderseperator.gif">
-<h2 align="center"> 💫 About Me:
-I am a full stack web developer and a designer<br></h2>
-
-<a href="https://suraj-chakraborty.netlify.app"> <img align='right' src="https://github.com/suraj-chakraborty/suraj-chakraborty/blob/main/assets/loader.gif" width="350" alt="Suraj chakraborty logo" /></a>
-<h4 align="center">
- 👨‍💻 All of my projects are available at <br>https://suraj-chakraborty.netlify.app/<br><br>📫 How to reach me <br>surajchakraborty211@gmail.com<br><br>📄 Know about my experiences <br> https://suraj-chakraborty.netlify.app/
- </h4>
-
-
-
-
-
-
-
-
-
-<p align="center"> <a href="https://suraj-chakraborty.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=netlify" alt="Portfolio Badge"> </a> <a href="mailto:surajchakraborty211@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email Badge"> </a> </p>
-
-
-<img  src="https://github.com/suraj-chakraborty/suraj-chakraborty/blob/main/assets/borderseperator.gif">
+<!-- ========== HEADER SECTION ========== -->
 <div align="center">
-<h1> Tech Stack </h1>
+  <img src="https://github.com/suraj-chakraborty/suraj-chakraborty/blob/main/assets/welcome.gif" width="100%" alt="Welcome to my Profile!" />
+</div>
+
+<img src="https://github.com/suraj-chakraborty/suraj-chakraborty/blob/main/assets/borderseperator.gif" width="100%">
+
+<!-- ========== TYPING SVG ========== -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Suraj+Chakraborty;Full+Stack+Developer+%7C+System+Designer+%7C+Builder" alt="Typing SVG" />
+  </a>
+</div>
+
+<img src="https://github.com/suraj-chakraborty/suraj-chakraborty/blob/main/assets/borderseperator.gif" width="100%">
+
+<!-- ========== PROFILE VIEWS & SOCIAL ========== -->
+<div align="center">
   
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+  ![Profile Views](https://komarev.com/ghpvc/?username=suraj-chakraborty&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-6C63FF?style=for-the-badge&logoColor=white)](https://suraj-chakraborty.netlify.app/)
+  [![Email](https://img.shields.io/badge/📬_Email-Contact-EA4335?style=for-the-badge&logoColor=white)](mailto:surajchakraborty211@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suraj-chakraborty)
+  
+</div>
 
-### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+<img src="https://github.com/suraj-chakraborty/suraj-chakraborty/blob/main/assets/borderseperator.gif" width="100%">
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+<!-- ========== ABOUT ME ========== -->
 
-### DevOps
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![LocalStack](https://img.shields.io/badge/LocalStack-00A1E4.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48cGF0aCBmaWxsPSIjMDBBMUU0IiBkPSJNMTQwIDYwYzAgMzMuMS0yNi45IDYwLTYwIDYwUzIwIDkzLjEgMjAgNjBzMjYuOS02MCA2MC02MCA2MCAyNi45IDYwIDYwWiIvPjxwYXRoIGZpbGw9IiNGRkYiIGQ9Ik04NSA3NWMtMTYuNSAwLTMwLTEzLjUtMzAtMzBzMTMuNS0zMCAzMC0zMHMzMCAxMy41IDMwIDMwLTEzLjUgMzAtMzAgMzBNODUgMTE1Yy0zOC42IDAtNzAtMzEuNC03MC03MHMzMS40LTcwIDcwLTcwczcwIDMxLjQgNzAgNzAtMzEuNCA3MC03MCA3ME04NSA1NWMtMTEuMSAwLTIwIDguOS0yMCAyMHM4LjkgMjAgMjAgMjAgMjAtOC45IDIwLTIwLTguOS0yMC0yMC0yMCIvPjwvc3ZnPg==&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+<img align="right" src="https://github.com/suraj-chakraborty/suraj-chakraborty/blob/main/assets/loader.gif" width="320" alt="Coding animation" />
+
+## 🧑‍💻 &nbsp;About Me
+
+```yaml
+name: Suraj Chakraborty
+role: Full Stack Developer & System Designer
+location: India 🇮🇳
+
+currently_building:
+  - 🤖 AI-powered applications with real-time capabilities
+  - 🧠 Intelligent systems with RAG, Neo4j & semantic memory
+  - 🖥️ Cross-platform desktop apps with Electron
+
+passions:
+  - Architecting scalable backend systems
+  - Building beautiful, responsive user interfaces
+  - Exploring AI/ML integration in real-world products
+  - Graph databases & knowledge representation
+
+fun_facts:
+  - ⚡ I can debug faster with coffee ☕
+  - 🎮 Gamer at heart, coder by profession
+  - 📚 Always learning something new
+```
+
+<br clear="both">
+
+<img src="https://github.com/suraj-chakraborty/suraj-chakraborty/blob/main/assets/borderseperator.gif" width="100%">
+
+<!-- ========== TECH STACK ========== -->
+
+<h2 align="center">⚡ Tech Arsenal</h2>
+
+<div align="center">
+
+### 🎨 Frontend & UI
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,html,css,tailwind,materialui&perline=9" />
+</p>
+
+### ⚙️ Backend & Runtime
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,python,fastapi&perline=6" />
+</p>
+
+### 🗄️ Databases & Caching
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,neo4j,firebase,supabase&perline=6" />
+</p>
+
+### 🛠️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,electron,figma,postman&perline=8" />
+</p>
+
+### 🤖 AI & ML
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=4" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Whisper-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
 </div>
 
-<img  src="https://github.com/suraj-chakraborty/suraj-chakraborty/blob/main/assets/borderseperator.gif">
+<img src="https://github.com/suraj-chakraborty/suraj-chakraborty/blob/main/assets/borderseperator.gif" width="100%">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=suraj-chakraborty&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=suraj-chakraborty&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-chakraborty&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<!-- ========== FEATURED PROJECTS ========== -->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<h2 align="center">🚀 Featured Projects</h2>
 
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🧠 AI Assistant Platform</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
+          <img src="https://img.shields.io/badge/Type-Full_Stack-6C63FF?style=flat-square" />
+        </p>
+        <p align="center">
+          An intelligent AI assistant with <b>real-time transcription</b>, <b>semantic memory (Neo4j)</b>, <b>Redis caching</b>, and <b>RAG-powered responses</b>. Features Electron desktop app with cross-platform support.
+        </p>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=react,nodejs,redis,graphql,electron&perline=5" height="30" />
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">📊 Analytics Dashboard</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
+          <img src="https://img.shields.io/badge/Type-Full_Stack-6C63FF?style=flat-square" />
+        </p>
+        <p align="center">
+          A modern analytics platform with <b>real-time event tracking</b>, <b>custom dashboards</b>, <b>workspace management</b>, and beautiful data visualizations with dark/light theme support.
+        </p>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=nextjs,ts,postgres,tailwind,docker&perline=5" height="30" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
+> 💡 **Explore all my projects →** [suraj-chakraborty.netlify.app](https://suraj-chakraborty.netlify.app/)
 
+<img src="https://github.com/suraj-chakraborty/suraj-chakraborty/blob/main/assets/borderseperator.gif" width="100%">
+
+<!-- ========== GITHUB STATS ========== -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=suraj-chakraborty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-chakraborty&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-chakraborty&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&layout=compact&langs_count=8" alt="Top Languages" />
+</div>
+
+<br/>
+
+<!-- ========== TROPHIES ========== -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suraj-chakraborty&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<!-- ========== ACTIVITY GRAPH ========== -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suraj-chakraborty&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true&custom_title=📈%20Contribution%20Graph" alt="Activity Graph" width="95%"/>
+</div>
+
+<img src="https://github.com/suraj-chakraborty/suraj-chakraborty/blob/main/assets/borderseperator.gif" width="100%">
+
+<!-- ========== SNAKE ANIMATION ========== -->
+
+<div align="center">
+  <h2>🐍 Watch my contributions get eaten!</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suraj-chakraborty/suraj-chakraborty/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suraj-chakraborty/suraj-chakraborty/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/suraj-chakraborty/suraj-chakraborty/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<img src="https://github.com/suraj-chakraborty/suraj-chakraborty/blob/main/assets/borderseperator.gif" width="100%">
+
+<!-- ========== SPOTIFY / QUOTE ========== -->
+
+<div align="center">
+  
+### ✍️ Dev Wisdom
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<img src="https://github.com/suraj-chakraborty/suraj-chakraborty/blob/main/assets/borderseperator.gif" width="100%">
+
+<!-- ========== CONNECT ========== -->
+
+<div align="center">
+  
+### 🤝 Let's Connect & Build Something Amazing Together!
+
+<p>
+  <a href="https://suraj-chakraborty.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>&nbsp;
+  <a href="mailto:surajchakraborty211@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/suraj-chakraborty" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://github.com/suraj-chakraborty" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer" width="100%" />
+
+</div>
+
+<!-- ========== END ========== -->
