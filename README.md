@@ -1,9 +1,10 @@
 <!-- ========== ANIMATED HEADER ========== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d5c,50:0e4668,100:1A7F8E&height=180&section=header&text=Suraj%20Chakraborty&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20System%20Designer%20%7C%20Builder&descAlignY=52&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d5c,50:0e4668,100:1A7F8E&height=200&section=header&text=Suraj%20Chakraborty&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=30&fontFamily=Pacifico&desc=Full%20Stack%20Developer%20%7C%20System%20Designer%20%7C%20Builder&descAlignY=55&descSize=16" width="100%" />
 </div>
 
 <!-- ========== TYPING SVG ========== -->
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=1A7F8E&center=true&vCenter=true&repeat=true&random=false&width=600&height=50&lines=%F0%9F%92%BB+Building+intelligent+systems;%F0%9F%A7%A0+AI+%7C+RAG+%7C+Neo4j+%7C+Semantic+Memory;%F0%9F%9A%80+Shipping+full-stack+products;%E2%9A%A1+Always+learning+something+new" alt="Typing SVG" />
   </a>
@@ -49,7 +50,7 @@ passions:
 
 fun_facts:
   - ⚡ I can debug faster with coffee ☕
-  - 🎮 Gamer at heart, coder by profession
+  - 👩‍💻 Coder at heart, coder by profession
   - 📚 Always learning something new
 ```
 
@@ -219,6 +220,10 @@ fun_facts:
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+<div align="center">
+  <img src="https://github.com/suraj-chakraborty/suraj-chakraborty/blob/main/assets/loader.gif" width="280" alt="Coding animation" />
+</div>
 
 <br/>
 
