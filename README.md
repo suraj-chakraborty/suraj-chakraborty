@@ -28,9 +28,11 @@
 
 <!-- ========== ABOUT ME ========== -->
 
-<img align="right" src="https://github.com/suraj-chakraborty/suraj-chakraborty/blob/main/assets/loader.gif" width="320" alt="Coding animation" />
+<h2 align="center">🧑‍💻 &nbsp;About Me</h2>
 
-## 🧑‍💻 &nbsp;About Me
+<table align="center">
+  <tr>
+    <td width="60%" valign="top">
 
 ```yaml
 name: Suraj Chakraborty
@@ -54,7 +56,12 @@ fun_facts:
   - 📚 Always learning something new
 ```
 
-<br clear="both">
+</td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://github.com/suraj-chakraborty/suraj-chakraborty/blob/main/assets/loader.gif" width="300" alt="Coding animation" />
+    </td>
+  </tr>
+</table>
 
 <img src="https://github.com/suraj-chakraborty/suraj-chakraborty/blob/main/assets/borderseperator.gif" width="100%">
 
@@ -76,7 +83,11 @@ fun_facts:
 
 ### 🗄️ Databases & Caching
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,neo4j,firebase,supabase&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,firebase,supabase&perline=5" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/BullMQ-E74C3C?style=for-the-badge&logo=bull&logoColor=white" />
 </p>
 
 ### 🛠️ DevOps & Tools
@@ -145,21 +156,21 @@ fun_facts:
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=suraj-chakraborty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-chakraborty&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=suraj-chakraborty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=suraj-chakraborty&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-chakraborty&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&layout=compact&langs_count=8" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suraj-chakraborty&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
 
 <!-- ========== TROPHIES ========== -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suraj-chakraborty&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=suraj-chakraborty&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 <br/>
@@ -175,12 +186,10 @@ fun_facts:
 
 <div align="center">
   <h2>🐍 Watch my contributions get eaten!</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suraj-chakraborty/suraj-chakraborty/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suraj-chakraborty/suraj-chakraborty/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/suraj-chakraborty/suraj-chakraborty/output/github-snake-dark.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/suraj-chakraborty/suraj-chakraborty/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
+
+> ⚠️ **Note:** If the snake animation doesn't appear, go to your repo's **Actions** tab → **Generate Snake Animation** → **Run workflow** to generate it for the first time.
 
 <img src="https://github.com/suraj-chakraborty/suraj-chakraborty/blob/main/assets/borderseperator.gif" width="100%">
 
